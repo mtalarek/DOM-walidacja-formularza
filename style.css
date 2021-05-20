@@ -1,0 +1,38 @@
+div {
+    background-color: rgb(211, 253, 183);
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+    margin: 0px;
+}
+
+form {
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+input {
+    margin: 10px;
+}
+
+#par1 {
+    color: red;
+}
+
+#par2 {
+    color: red;
+}
+
+#par3 {
+    color: red;
+}
+
+.opacity {
+    opacity: 0;
+}
